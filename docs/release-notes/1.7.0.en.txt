@@ -1,0 +1,3 @@
+# What's new in HELINK 1.7.0 (one line each)
+Download just a part of any video: play it, set where it starts and ends on the timeline, then save it as video or MP3.
+Save the WhatsApp (and WhatsApp Business) statuses you viewed, photos and videos, before they disappear after 24 hours.

@@ -1,0 +1,38 @@
+{
+ "repo": "yausername/youtubedl-android",
+ "commit": "d725d5c9a18c3a99a13ee0308bf78275dc310760",
+ "abis": {
+  "arm64-v8a": {
+   "python": {
+    "file": "libpython.zip.so",
+    "path": "library/src/main/jniLibs/arm64-v8a/libpython.zip.so",
+    "size": 14305904,
+    "sha256": "7edecb6c9bd3a94456168d44911d8aea9f917bedef90c320a29500d92ac3eb62",
+    "unpacked": 41680927
+   },
+   "ffmpeg": {
+    "file": "libffmpeg.zip.so",
+    "path": "ffmpeg/src/main/jniLibs/arm64-v8a/libffmpeg.zip.so",
+    "size": 35624931,
+    "sha256": "4664a895283f9f31786be39b0c484c1f96631f02c7c7f9c70a4a4a2da324a092",
+    "unpacked": 78092771
+   }
+  },
+  "armeabi-v7a": {
+   "python": {
+    "file": "libpython.zip.so",
+    "path": "library/src/main/jniLibs/armeabi-v7a/libpython.zip.so",
+    "size": 12822487,
+    "sha256": "4d860f1434442c69f128279705806916def2b323d1b43b7fa6ada7dfab0a0571",
+    "unpacked": 31465687
+   },
+   "ffmpeg": {
+    "file": "libffmpeg.zip.so",
+    "path": "ffmpeg/src/main/jniLibs/armeabi-v7a/libffmpeg.zip.so",
+    "size": 30476956,
+    "sha256": "5b4a436358e28fc0f0788f5f917dcce9d35c0107b7454ca78dda3191e6dc120c",
+    "unpacked": 58079148
+   }
+  }
+ }
+}

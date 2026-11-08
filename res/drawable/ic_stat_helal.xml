@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The HELINK mark (the H of the logo): a black-and-white H with the orange stripe of the logo. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <group
+        android:scaleX="0.029197"
+        android:scaleY="0.029197"
+        android:translateX="-15.5766"
+        android:translateY="-8.6861">
+        <path android:fillColor="#FFFFFF" android:pathData="M693 366L822 462V675H1065L1186 596V1051L1065 951V789H822V958L693 1051Z" />
+        <path android:fillColor="#FFFFFF" android:pathData="M1076 486L1196 389L1184 560L1066 639Z" />
+    </group>
+</vector>

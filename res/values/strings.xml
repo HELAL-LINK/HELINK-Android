@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">HELINK</string>
+    <!-- The name in the "Share" list for sound and video files. -->
+    <string name="share_no_music">إزالة الموسيقى (HELINK)</string>
+</resources>

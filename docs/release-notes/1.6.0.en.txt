@@ -1,0 +1,4 @@
+# What's new in HELINK 1.6.0 (one line each)
+Download a whole YouTube course or playlist at once: choose the quality once, and the videos are saved numbered in order, in a folder named after the course.
+HELINK marks the videos you downloaded before, so you don't download them twice.
+HELINK tells you about new versions when you're online, and updates itself when you say so, with a "Not now" button.
